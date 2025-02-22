@@ -64,3 +64,8 @@
     page-break-after: avoid;
   }
 }
+
+select{
+  width: 200px;
+}
+
